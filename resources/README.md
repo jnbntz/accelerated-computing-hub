@@ -1,7 +1,7 @@
 # NVIDIA Accelerated Computing Hub Resources
 ![nvidia](https://github.com/NVIDIA/accelerated-computing-hub/assets/172857182/0f315e16-cacd-44f5-9a77-fc62367b05cf)
 
-## CUDA Performance Optimization Playlist
+## CUDA Performance Optimization
 
 - [CUDA Techniques: Mem BW & Latency (GTC 2025)](https://www.nvidia.com/en-us/on-demand/session/gtc25-s72683/)
 - [CUDA Techniques: Instructions (GTC 2025)](https://www.nvidia.com/en-us/on-demand/session/gtc25-s72685/)
